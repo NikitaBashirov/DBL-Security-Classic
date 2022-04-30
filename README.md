@@ -1,4 +1,4 @@
 # DBL-Security-Classic
 Классическая настройка безопасности. Появился новый под названием Go-security
-[Скачать](https://github.com/NikitaBashirov/DBL-Security-Classic/blob/main/security.msc)
-[Скачать Go-security](https://github.com/NikitaBashirov/Go-security/blob/main/gosecurity.msc)
+[Скачать](https://drive.google.com/file/d/1IdK14iEkX1kavbbF00AEjbrWGHgZfnEW/view)
+[Скачать Go-security](https://drive.google.com/file/d/16_Chics8nxPYa7kwLBvhECbokJrNrkju/view)
